@@ -1,0 +1,15 @@
+.footer {
+  margin-top: 40px;
+  background-color: rgb(47, 47, 47);
+  color: grey;
+  height: 95px;
+  text-align: center;
+  vertical-align: center;
+  padding: 60px;
+}
+
+.footer a {
+  color: #1EDD87;
+  font-size: 30px;
+  margin: 0 5px;
+}
